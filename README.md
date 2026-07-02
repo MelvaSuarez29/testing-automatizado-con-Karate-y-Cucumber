@@ -13,7 +13,8 @@ Proyecto académico desarrollado para la asignatura **📚 Gestión de Proyectos
 
 ## 📖 Descripción
 
-Este proyecto implementa pruebas automatizadas sobre la API pública de Swagger Petstore utilizando **🥋 Karate Framework**, **🥒 Cucumber** y **☕ JUnit 5**.
+Este proyecto implementa pruebas automatizadas sobre la API pública de Swagger Petstore utilizando:   
+** Karate Framework**, ** Cucumber** y **☕ JUnit 5**.
 
 El objetivo es validar de forma completa el ciclo de vida de un recurso (🐶 mascota) mediante pruebas REST encadenadas en un único escenario.
 
@@ -40,8 +41,8 @@ Todo esto reutilizando variables dinámicas entre pasos.
 
 * ☕ Java 21
 * ⚙️ Gradle
-* 🥋 Karate Framework
-* 🥒 Cucumber Reports
+* Karate Framework
+* Cucumber Reports
 * 🧪 JUnit 5
 * 💻 IntelliJ IDEA
 
@@ -63,8 +64,6 @@ Verificar instalación:
 java -version
 gradle -v
 ```
-
----
 
 ## 📂 Estructura del proyecto
 
@@ -134,12 +133,12 @@ Se reutiliza el ID generado anteriormente para verificar su existencia.
 
 ---
 
-### ✍️ 3. Actualizar mascota
+### 3. Actualizar mascota
 
 Se cambia:
 
-* 📝 Nombre
-* 🟢 Estado a "sold"
+* Nombre
+* Estado a "sold"
 
 ✔ Validaciones:
 
@@ -196,7 +195,6 @@ Este reporte permite visualizar:
 ---
 
 ## 🎓 Aprendizajes obtenidos
-
 Durante el desarrollo de este taller se reforzaron conocimientos en:
 
 🧪 Automatización de pruebas API
