@@ -6,7 +6,7 @@ Proyecto académico desarrollado para la asignatura **📚 Gestión de Proyectos
 
 ## 👨‍🎓 Información del Proyecto
 
-**👤 Estudiante:** Melva Patricia Suárez Casco
+**👤 Estudiante:** Melva Patricia Suárez Casco  
 **🎯 Tema:** Testing automatizado con Karate y Cucumber
 
 ---
@@ -51,11 +51,11 @@ Todo esto reutilizando variables dinámicas entre pasos.
 
 Antes de ejecutar el proyecto asegúrate de tener instalado:
 
-✅ JDK 21
-✅ IntelliJ IDEA
-✅ Gradle
-✅ Plugin Karate para IntelliJ
-✅ Variable de entorno JAVA_HOME configurada
+JDK 21  
+IntelliJ IDEA  
+Gradle  
+Plugin Karate para IntelliJ  
+Variable de entorno JAVA_HOME configurada
 
 Verificar instalación:
 
