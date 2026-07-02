@@ -4,7 +4,7 @@ Proyecto académico desarrollado para la asignatura **📚 Gestión de Proyectos
 
 ---
 
-## 👨‍🎓 Información del Proyecto
+## Información del Proyecto
 
 **👤 Estudiante:** Melva Patricia Suárez Casco  
 **🎯 Tema:** Testing automatizado con Karate y Cucumber
